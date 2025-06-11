@@ -1,1 +1,1 @@
-web: ./nats-server -c nats.conf
+web: ./out -c nats.conf
