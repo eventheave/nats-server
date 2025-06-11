@@ -1,0 +1,1 @@
+web: ./nats-server -c nats.conf
